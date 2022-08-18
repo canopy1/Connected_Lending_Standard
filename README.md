@@ -1,4 +1,4 @@
-# Connected_lending_Standard
+# Connected_Lending_Standard
 Connected lending Standard (CLS) is an open source format for credit and loan policies.
 One of the things that we (Canopy) found out is that almost every single credit card and loan company has a different way to articulate their policies.
 
