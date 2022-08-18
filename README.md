@@ -4,7 +4,7 @@ One of the things that we (Canopy) found out is that almost every single credit 
 
 Our goal is to unify the way people talk about credit and loan policies.
 
-#Here are some benefits:
+# Here are some benefits:
 
 Banks:   can more quickly evaluate new products
 
@@ -12,7 +12,7 @@ Lenders: can more easily express themselves to others
 
 Consumers: can more easily understand how their products work
 
-#Planned releases:
+# Planned releases:
 
 Q2 2022: examples of all known credit card policies used in the US
 
