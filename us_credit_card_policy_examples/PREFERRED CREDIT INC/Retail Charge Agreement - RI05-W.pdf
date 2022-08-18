@@ -1,0 +1,48 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+
+
+
+
+
+<script>
+function redirectOnLoad() {
+var escapedHash = '';
+var url = '/saml/authn-request.jsp?saml_request_id=_2CAAAAYMZqxsoMDAwMDAwMDAwMDAwMDAwAAAA7g4JfhPTw3PrY_69sBKNy178ehEsC4vh7zPlCSr7B7Cn5zBKt6Db7jUfxIkK85swQKVILWg5G9xcIZL3B7_9fjyyLJaBJO3qIHO21mdFyjUPisV9ItKcq9laPtUfN9nk31M_OvlhjtuYAjqo5oKL1D8PV9W-cn9kllzYTaXT3GXU71OY-BY0vYzdspvErhIZgAU7z8-IGvOYzvTSsIOU-bEMmaz3tC4Yld20hnarw5bDliN_d64IrQqyTZkoHx3ZVA&saml_acs=https%3A%2F%2Fcfpb.my.salesforce.com%3Fso%3D00Do0000000HJvn&saml_binding_type=HttpRedirect&Issuer=https%3A%2F%2Fcfpb.my.salesforce.com&samlSsoConfig=0LEt0000000006T&RelayState=%2Fvisualforce%2Fsession%3Furl%3Dhttps%253A%252F%252Fcfpb--ezprotect4sf.na21.visual.force.com%252Fapex%252Fezprotect4sf__FileDownloadBlocked%253FfileId%253D068t000000WG6iTAAT';
+if (window.location.hash) {
+   escapedHash = '%23' + window.location.hash.slice(1);
+}
+if (window.location.replace){ 
+window.location.replace(url + escapedHash);
+} else {
+window.location.href = url + escapedHash;
+} 
+} 
+redirectOnLoad();
+</script>
+
+</head>
+
+
+</html>
+
+
+
+
+
+<!-- Body events -->
+<script type="text/javascript">function bodyOnLoad(){if(window.PreferenceBits){window.PreferenceBits.prototype.csrfToken="null";};}function bodyOnBeforeUnload(){}function bodyOnFocus(){}function bodyOnUnload(){}</script>
+			
+</body>
+</html>
+
+
+<!--
+...................................................................................................
+...................................................................................................
+...................................................................................................
+...................................................................................................
+-->
