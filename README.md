@@ -1,5 +1,7 @@
 # Connected_lending_Standard
-Connected lending Standard (CLS) an open source format for neobanks and startups to articulate their credit and loan policies.
+Connected lending Standard (CLS) is an open source format for credit and loan policies.
 
-
-https://www.notion.so/canopy1/Connected-lending-Standard-CLS-db58f3fdaa7140fdb6b7e94d6c269b09
+Planned releases:
+Q2 2022: examples of all known credit card policies used in the US
+Q3 2022: easier to consume data format
+Q4 2022: easier searching/indexing of all known policies
